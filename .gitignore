@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# raw data file(s)
+data/raw/loc-gowalla_totalCheckins.txt.gz
